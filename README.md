@@ -1,6 +1,4 @@
  
-<h3 align="left">MayankFetch</h3>
-
 <pre>
 <span style="color: cyan;">███╗       ███╗</span>     <span style="color: lightgreen;">meow@mayank.local</span>
 <span style="color: cyan;">████╗     ████║</span>     <span style="color: yellow;">------------------------</span>
